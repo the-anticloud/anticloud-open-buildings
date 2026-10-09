@@ -1,0 +1,25 @@
+# Academic Research — OPEN_BUILDINGS
+
+**Company:** Anticloud FZ LLE
+**Model:** PAX L5 Narrow L2 General 27B
+**Project:** OPEN_BUILDINGS | Category: SOLAR
+**Upstream:** https://github.com/google/open-buildings (Apache 2.0)
+
+## Overview
+
+This document covers academic research for the Anticloud integration of OPEN_BUILDINGS.
+
+Google open buildings dataset tools
+
+## Anticloud Integration
+
+PAX L5 Narrow L2 General 27B is integrated into OPEN_BUILDINGS to provide:
+- Local AI inference with zero cloud dependency
+- AIOSS tamper-evident audit chain
+- AES-256 encryption at rest
+- Single-binary deployment
+
+## Contact
+
+Lois-Kleinner Alpasan — CEO & CTO, Anticloud FZ LLE
+lois@0-1.gg | 0-1.gg
